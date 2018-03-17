@@ -1,14 +1,17 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+title: Alan Zanão
+email: alan.zanao@outlook.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Aprendizado de cada dia, histórias, soluções de problemas, pensamentos, valem a pena serem compartilhados. 
+  Sou Alan, estudante de Engenharia Elétrica, cada dia buscando novos conhecimentos. Entrei na Academia pelo
+  integrante, peguei o gosto por automação e controlar sistemas, estudei línguas e recentemente ando pelo caminho
+  do aprendizado de máquinas e análise dos valiosos dados. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  alanzdp
+github_username:   alanzanao
+facebook_username: alanzdp
 
 # Build settings
 markdown:          kramdown
