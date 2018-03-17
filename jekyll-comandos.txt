@@ -1,0 +1,12 @@
+
+	COMMANDS TO OPERATE JEKYLL
+	
+	1. Execute:
+		"bundle exec jekyll serve" 
+		
+	2. See the version:
+		"ruby -v"
+		"jekyll -v"
+		
+	3. Install jekyll and bundler gems
+		"gem install jekll bundler"

@@ -3,8 +3,8 @@ email: alan.zanao@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aprendizado de cada dia, histórias, soluções de problemas, pensamentos, valem a pena serem compartilhados. 
   Sou Alan, estudante de Engenharia Elétrica, cada dia buscando novos conhecimentos. Entrei na Academia pelo
-  integrante, peguei o gosto por automação e controlar sistemas, estudei línguas e recentemente ando pelo caminho
-  do aprendizado de máquinas e análise dos valiosos dados. 
+  interesse em elétrons e ondas de rádio, peguei o gosto por automação e controle de sistemas, estudei línguas 
+  e recentemente caminho pelo Aprendizado de Máquinas e analisando, os agora mais valiosos do que nunca, dados!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -14,6 +14,7 @@ github_username:   alanzanao
 facebook_username: alanzdp
 
 # Build settings
+highlighter: 	   rouge
 markdown:          kramdown
 paginate:          5
 paginate_path:     "/posts/page:num/"
