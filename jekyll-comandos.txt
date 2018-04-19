@@ -10,3 +10,12 @@
 		
 	3. Install jekyll and bundler gems
 		"gem install jekll bundler"
+		
+	4. Update and clean gems
+		"gem update && gem cleanup"
+		
+		
+	5. Create a blog
+		jekyll new myblog
+		cd myblog
+		bundle exec jekyll serve
